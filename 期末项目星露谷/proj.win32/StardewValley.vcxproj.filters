@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>app</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ResourceManager.cpp">
+      <Filter>works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SeasonManager.cpp">
+      <Filter>works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Item.cpp">
+      <Filter>Item works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ItemManager.cpp">
+      <Filter>Item works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainMap.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AuthorListScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\NPC.cpp">
+      <Filter>NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\NPCManager.cpp">
+      <Filter>NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\NPCRelationship.cpp">
+      <Filter>NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Player.cpp">
+      <Filter>player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FishingManager.cpp">
+      <Filter>fishing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\NPCTask.cpp">
+      <Filter>NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TaskLayer.cpp">
+      <Filter>task</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TaskManager.cpp">
+      <Filter>task</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BringMine.cpp">
+      <Filter>Cave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Cave.cpp">
+      <Filter>Cave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Animal.cpp">
+      <Filter>animal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Crop.cpp">
+      <Filter>crops</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FarmManager.cpp">
+      <Filter>crops</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AnimalManager.cpp">
+      <Filter>animal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BackpackLayer.cpp">
+      <Filter>backpack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BackpackManager.cpp">
+      <Filter>backpack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EventManager.cpp">
+      <Filter>works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShopLayer.cpp">
+      <Filter>shop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShopManager.cpp">
+      <Filter>shop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TaskItem.cpp">
+      <Filter>Item works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TaskItemManager.cpp">
+      <Filter>Item works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShopItem.cpp">
+      <Filter>Item works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShopItemManager.cpp">
+      <Filter>Item works</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelpScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>app</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ResourceManager.h">
+      <Filter>works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SeasonManager.h">
+      <Filter>works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Item.h">
+      <Filter>Item works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ItemManager.h">
+      <Filter>Item works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainMap.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AuthorListScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\NPC.h">
+      <Filter>NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\NPCManager.h">
+      <Filter>NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\NPCRelationship.h">
+      <Filter>NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Player.h">
+      <Filter>player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FishingManager.h">
+      <Filter>fishing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\NPCTask.h">
+      <Filter>NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TaskLayer.h">
+      <Filter>task</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TaskManager.h">
+      <Filter>task</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BringMine.h">
+      <Filter>Cave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Cave.h">
+      <Filter>Cave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Animal.h">
+      <Filter>animal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Crop.h">
+      <Filter>crops</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FarmManager.h">
+      <Filter>crops</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AnimalManager.h">
+      <Filter>animal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BackpackLayer.h">
+      <Filter>backpack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BackpackManager.h">
+      <Filter>backpack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EventManager.h">
+      <Filter>works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShopLayer.h">
+      <Filter>shop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShopManager.h">
+      <Filter>shop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TaskItem.h">
+      <Filter>Item works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TaskItemManager.h">
+      <Filter>Item works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShopItem.h">
+      <Filter>Item works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShopItemManager.h">
+      <Filter>Item works</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelpScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{8855feaa-c03a-41c4-a636-c4db06673939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{e15123cf-3b3e-45f8-8abc-1aa0aef345ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{036efc9e-a3d6-4559-8796-c55d73b349d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NPC">
+      <UniqueIdentifier>{e7aa165c-dea9-42db-afee-8c5a264310db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="player">
+      <UniqueIdentifier>{928f6f5c-4cbb-40b2-9eba-e55c72ee6fc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="fishing">
+      <UniqueIdentifier>{f82d75fe-696b-4ed5-8ef9-f87687f18f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cave">
+      <UniqueIdentifier>{499522a6-1814-453f-acf5-4de7d0d9399c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="animal">
+      <UniqueIdentifier>{1457aff6-6bc1-4673-8f14-24e24966a8e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="crops">
+      <UniqueIdentifier>{44227196-9dc1-43cd-b04f-51e29aea0a58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="works">
+      <UniqueIdentifier>{653b5932-43f8-45cb-bee1-46f1f122f58b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="backpack">
+      <UniqueIdentifier>{6369e493-0aa5-40eb-a4c3-769c7365ddff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shop">
+      <UniqueIdentifier>{68ee9ea1-2a85-4c1b-ba33-646ed2bc762d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="task">
+      <UniqueIdentifier>{aabc4a83-cc94-4d40-aa86-97e63666682e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item works">
+      <UniqueIdentifier>{6194fa75-bdeb-4f30-8d61-3516b8b99290}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>works</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
